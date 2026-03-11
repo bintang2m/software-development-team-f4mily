@@ -1,4 +1,3 @@
-
 ## identitas
 Nama    : Khafid Firdaus Ainur Yahya
 NPM     : 2313020025
