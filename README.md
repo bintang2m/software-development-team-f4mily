@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Novel Ku Banner" width="100%">
+  <img src="logo novel.png" alt="Novel Ku Banner" width="100%">
 </p>
 
 # Novel Ku
